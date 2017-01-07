@@ -1,0 +1,12 @@
+C:\Users\fires\Desktop\Game programmin\DungonMaker\DungonMaker\bin\Debug\DungonMaker.exe.config
+C:\Users\fires\Desktop\Game programmin\DungonMaker\DungonMaker\bin\Debug\DungonMaker.exe
+C:\Users\fires\Desktop\Game programmin\DungonMaker\DungonMaker\bin\Debug\DungonMaker.pdb
+C:\Users\fires\Desktop\Game programmin\DungonMaker\DungonMaker\obj\Debug\DungonMaker.csprojResolveAssemblyReference.cache
+C:\Users\fires\Desktop\Game programmin\DungonMaker\DungonMaker\obj\Debug\DungonMaker.exe
+C:\Users\fires\Desktop\Game programmin\DungonMaker\DungonMaker\obj\Debug\DungonMaker.pdb
+C:\Users\fires\Desktop\Game\DungonMaker\DungonMaker\bin\Debug\DungonMaker.exe.config
+C:\Users\fires\Desktop\Game\DungonMaker\DungonMaker\obj\Debug\DungonMaker.exe
+C:\Users\fires\Desktop\Game\DungonMaker\DungonMaker\obj\Debug\DungonMaker.pdb
+C:\Users\fires\Desktop\Game\DungonMaker\DungonMaker\bin\Debug\DungonMaker.exe
+C:\Users\fires\Desktop\Game\DungonMaker\DungonMaker\bin\Debug\DungonMaker.pdb
+C:\Users\fires\Desktop\Game\DungonMaker\DungonMaker\obj\Debug\DungonMaker.csprojResolveAssemblyReference.cache
